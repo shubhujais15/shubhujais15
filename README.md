@@ -3,7 +3,7 @@
 
 
 ## About Me 🙋🏻‍♂️
-- 🔭 I’m currently working on MERN stack development 
+- 🔭 I’m currently working on Frontend development 
 - 🌱 I’m currently learning react js
 - 👯 I’m looking to collaborate on any project in which I can learn and contribute 
 - 🤔 I’m looking for help with developing my skill sets in web development
