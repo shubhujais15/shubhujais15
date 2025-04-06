@@ -3,8 +3,8 @@
 
 
 ## About Me 🙋🏻‍♂️
-- 🔭 I’m currently working on Frontend development 
-- 🌱 I’m currently learning Node js
+- 🔭 I’m currently working on MERN Stack 
+- 🌱 I’m currently learning Devops
 - 👯 I’m looking to collaborate on any project in which I can learn and contribute 
 - 🤔 I’m looking for help with developing my skill sets in web development
 - 💬 Ask me about ...anything based on my tech stack, I'll surely try to help
@@ -27,11 +27,11 @@
   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
 <!--   <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp; -->
   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
-<!--   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" title="mongoDB" alt="mongoDB" width="40" height="40"/>&nbsp; -->
-<!--   <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp; -->
+  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" title="mongoDB" alt="mongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
 <!--   <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp; -->
   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" title="React" alt="react" width="40" height="40"/>&nbsp;
-<!--   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp; -->
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" title="Tailwind" alt="tailwind" width="40" height="40"/>&nbsp;
 </div> 	
 
